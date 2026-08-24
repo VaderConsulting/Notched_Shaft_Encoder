@@ -2,6 +2,7 @@
 
 Monitor the postion and clickable button status from a Notched Shaft Encoder. This library extended the feature from Paul Stoffregen Encoder library. It provides a smooth and accurate monitoring feature specially for a Notched Shaft Encoder. This library can measure the encoder incremental/differential position and button status of the button. Original author: Lester Lo. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.0.0. Upstream: <https://github.com/lesterlo/Notched-Shaft-Encoder>.
 
+**Source last updated:** 2020-06-09  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
