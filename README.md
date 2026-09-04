@@ -20,6 +20,10 @@ Monitor the postion and clickable button status from a Notched Shaft Encoder. Th
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Notched_Shaft_Encoder`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Lester Lo
